@@ -1,8 +1,7 @@
-Pão (parte de baixo)
-Molho especial
-Dois hambúrgueres
-Queijo
-Picles
-Alface
-Cebola
-Pão com gergelim (parte de cima)
+1 Dois hambúrgueres
+2 Alface
+3 Queijo
+4 Molho especial
+5 Cebola
+6 Picles
+7 Pão com gergelim 
